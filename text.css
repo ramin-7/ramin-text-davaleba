@@ -1,0 +1,134 @@
+body {
+    position: relative;
+width: 1440px;
+height: 1400px;
+
+background: #F2F2F2;
+}
+h2 {
+    position: absolute;
+width: 231px;
+height: 19px;
+left: 604px;
+top: 14px;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+p{
+    position: absolute;
+width: 1345px;
+height: 158px;
+left: 39px;
+top: 51px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+padding: 10px;
+color: #000000;
+}
+b {
+    position: absolute;
+    width: 1363px;
+    height: 202px;
+    left: 12px;
+    top: 155px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+
+}
+.meore-satauri{
+    position: absolute;
+    width: 494px;
+    height: 19px;
+    left: 38px;
+    top: 174px;
+    color: #000000;
+    font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+}
+.meore-text {
+    position: absolute;
+width: 1363px;
+height: 202px;
+left: 39px;
+top: 205px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
+.mesame-paragrapi{
+    position: absolute;
+width: 494px;
+height: 19px;
+left: 37px;
+top: 401px;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.mesame-text {
+    position: absolute;
+width: 1349px;
+height: 167px;
+left: 38px;
+top: 432px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
+.meotxe-paragrapi {
+    position: absolute;
+width: 494px;
+height: 19px;
+left: 37px;
+top: 581px;
+
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.meotxe-text {
+    position: absolute;
+width: 1327px;
+height: 212px;
+left: 38px;
+top: 612px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+
+}
+.mexute-paragrapi {
+    position: absolute;
+width: 494px;
+height: 19px;
+left: 37px;
+top: 800px;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.mexute-text {
+    position: absolute;
+width: 1318px;
+height: 212px;
+left: 38px;
+top: 830px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
